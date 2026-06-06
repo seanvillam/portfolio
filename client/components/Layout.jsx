@@ -5,7 +5,7 @@ export default function Layout(){
      return (
     // This component is used to display the header and navigation links on all pages
     <>
-      <img src="/public/favicon.svg" alt="Logo" style={{ width: "100px", height: "100px" }} />
+      <img src="../public/favicon.svg" alt="Logo" style={{ width: "100px", height: "100px" }} />
       <h1>Sean Villamonte</h1>
       <nav>
         <Link to="/">Home</Link> | <Link to="/about">About</Link> |{" "}
