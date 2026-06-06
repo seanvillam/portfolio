@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import About from "../src/About";
+import About from "../src/about";
 export default function Home() {
 
   return (
