@@ -1,3 +1,7 @@
+import library from "./assets/library.png";
+import todo from "./assets/todo.png";
+import shopping from "./assets/shopping.png";
+
 export default function Project() {
     return (
     <div>
