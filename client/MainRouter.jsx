@@ -19,8 +19,8 @@ import UsersList from "./src/admin/users/UsersList";
 import ServiceList from "./src/admin/services/ServiceList";
 import ServiceForm from "./src/admin/services/ServiceForm";
 
-import ReferenceList from "./references/ReferenceList";
-import ReferenceForm from "./references/ReferenceForm";
+import ReferenceList from "./src/admin/references/ReferenceList";
+import ReferenceForm from "./srcs/admin/references/ReferenceForm";
 
 const MainRouter = () => {
             // The Layout component is included here so that it is displayed on all pages
