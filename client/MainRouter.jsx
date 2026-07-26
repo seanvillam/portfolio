@@ -20,7 +20,7 @@ import ServiceList from "./src/admin/services/ServiceList";
 import ServiceForm from "./src/admin/services/ServiceForm";
 
 import ReferenceList from "./src/admin/references/ReferenceList";
-import ReferenceForm from "./srcs/admin/references/ReferenceForm";
+import ReferenceForm from "./src/admin/references/ReferenceForm";
 
 const MainRouter = () => {
             // The Layout component is included here so that it is displayed on all pages
